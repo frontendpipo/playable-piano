@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-    A fully playable piano made in HTML, CSS and JavaScript.
+    A fully playable piano made in HTML, CSS and JavaScript. Play it [here](https://frontendpipo.github.io/playable-piano/)!
 </p>
 
 <h4 align="center"> 
